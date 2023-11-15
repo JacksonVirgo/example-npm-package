@@ -1,5 +1,11 @@
 # @jacksonvirgo/example-package.js
 
+## 0.0.3
+
+### Patch Changes
+
+- 44b0578: Added npmrc
+
 ## 0.0.2
 
 ### Patch Changes
