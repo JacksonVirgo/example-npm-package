@@ -1,6 +1,6 @@
 {
 	"name": "@jacksonvirgo/example-package.js",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"author": "Jack Nash",
 	"license": "MIT",
 	"main": "dist/index.js",
